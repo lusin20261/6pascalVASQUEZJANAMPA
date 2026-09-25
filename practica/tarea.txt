@@ -1,0 +1,5 @@
+1:Ser Responsable
+2:Estudiar
+3:Bañar a mi gato
+4:Hacer mis tareas
+5:Jugar voleibol con todo mi esfuerzo

@@ -1,0 +1,5 @@
+1:MI madre
+2:Mi padre
+3:Mi hermano menor
+4:Mi hermana mayor
+5:Mi gato
