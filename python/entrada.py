@@ -1,0 +1,7 @@
+v= input("Escribe tu nombre:")
+w= input("Escribe tu color fav:")
+x= input("Escribe tu anime fav: ")
+y = input("Escribe tu el deporte que practicas: ")
+z= input("Escribe el deporte que te gustaria practicar: ")
+print("Hola soy ",v," mi color fav es ",w,"mi anime fav es ",x,"practico ",y)
+print("me gustaria practicar ",z)
